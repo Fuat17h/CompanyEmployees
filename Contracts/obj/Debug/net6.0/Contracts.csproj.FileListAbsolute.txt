@@ -1,0 +1,15 @@
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\FUAD\source\repos\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
